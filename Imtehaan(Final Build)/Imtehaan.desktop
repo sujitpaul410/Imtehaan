@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=java -jar /home/sss/Desktop/Imtehaan/Imtehaan.jar
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Imtehaan
+Name=Imtehaan
+Comment[en_US]=Lab Test
+Comment=Lab Test
